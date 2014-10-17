@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rxd:home|Door43 (rxd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rxd|d43-rxd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rxd/archive/master.zip|d43-rxd.zip]]
+
+**Recent Changes**
+{{changes>ns = rxd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rxd|Ethnologue data]]
+
